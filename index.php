@@ -8,7 +8,7 @@ $billets = $bdd->query('select BIL_ID as id, BIL_DATE as date,'
 foreach ($billets as $billet):
     ?>
 
-<!-- Affichage -->
+<!-- Affichagesdsdfgdfhg -->
 <!doctype html>
 <html lang="fr">
     <head>
